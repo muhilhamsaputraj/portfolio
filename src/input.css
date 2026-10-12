@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme{
+ --color-burgundy: #660033;
+}
